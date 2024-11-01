@@ -2,6 +2,6 @@
 
 using namespace std;
 int main()
-{	//test
+{	//test vers
 	cout << "Hello" << endl;
 }
